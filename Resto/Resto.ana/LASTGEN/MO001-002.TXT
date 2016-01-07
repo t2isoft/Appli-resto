@@ -1,0 +1,19 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Franchise		TAR	157	nouvelle taille enregistrement : 157
+Franchise	NomRestaurant	RUB+		NomRestaurant est une nouvelle rubrique
+Franchise	Latitude	RUB+		Latitude est une nouvelle rubrique
+Franchise	Longitude	RUB+		Longitude est une nouvelle rubrique
+Photos		TAR	63	nouvelle taille enregistrement : 63
+Photos	IDPlat	RUB+		IDPlat est une nouvelle clé
+Photos	Photo	RUB+		Photo est une nouvelle rubrique
+Photos	OrdreAffichage	RUB+		OrdreAffichage est une nouvelle rubrique
+Photos	IDPlatOrdreAffichage	RUB+		IDPlatOrdreAffichage est une nouvelle clé
+Base_Resto		TAR	672	nouvelle taille enregistrement : 672
+Base_Resto	IDPlat	NNR	Plat	ATTENTION : la clé Plat a pour nouveau nom IDPlat
+Base_Resto	NomPlat_	RUB+		NomPlat_ est une nouvelle rubrique
+Base_Resto	DEscriptionPlat	RUB+		DEscriptionPlat est une nouvelle rubrique
+Base_Resto	Prix	RUB+		Prix est une nouvelle rubrique
+Base_Resto	Photo	RUB+		Photo est une nouvelle rubrique
+Base_Resto	LibelléCategorie	RUB+		LibelléCategorie est une nouvelle rubrique
+Base_Resto	OrdreAffichage	RUB+		OrdreAffichage est une nouvelle rubrique
+Base_Resto		NWL	Base_Resto (IDPlat) et Photos (IDPlat)	Nouvelle liaison entre les fichiers Base_Resto (IDPlat) et Photos (IDPlat)

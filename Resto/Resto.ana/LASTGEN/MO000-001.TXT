@@ -1,0 +1,8 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Franchise		NFI		nouveau fichier
+Photos		NFI		nouveau fichier
+Base_Resto		NFI		nouveau fichier
+Connexion à SQLite		CNX+		
+Base_Resto		FRN		
+Photos		FRN		
+Franchise		FRN		

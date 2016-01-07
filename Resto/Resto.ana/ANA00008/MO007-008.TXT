@@ -1,0 +1,6 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Franchise	NomBoutique	NNR	NomRestaurant	ATTENTION : la rubrique NomRestaurant a pour nouveau nom NomBoutique
+Photos	IDCigarette	NNR	IDPlat	ATTENTION : la clé IDPlat a pour nouveau nom IDCigarette
+Plat	IDCigarette	NNR	IDPlat	ATTENTION : la clé IDPlat a pour nouveau nom IDCigarette
+Plat	NomCigarette	NNR	NomPlat	ATTENTION : la rubrique NomPlat a pour nouveau nom NomCigarette
+Plat	DescriptionCigarette	NNR	DescriptionPlat	ATTENTION : la rubrique DescriptionPlat a pour nouveau nom DescriptionCigarette

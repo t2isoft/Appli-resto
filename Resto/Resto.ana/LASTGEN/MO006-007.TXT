@@ -1,0 +1,5 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Photos		TAR	20	nouvelle taille enregistrement : 20
+Photos	Photo	CNW	Mémo Binaire$Chaîne	la rubrique Photo a pour nouveau type Mémo image
+Plat		TAR	629	nouvelle taille enregistrement : 629
+Plat	Photo	CNW	Mémo Binaire$Chaîne	la rubrique Photo a pour nouveau type Mémo image
